@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619091990482",
+    "project_id": "my-memory-bcdf2",
+    "storage_bucket": "my-memory-bcdf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619091990482:android:774603b8190172269dda0b",
+        "android_client_info": {
+          "package_name": "com.gsixacademy.android.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619091990482-8k69chqqpa4u23kjg1ac69fffconsdcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1vNhReeEU6JGSWg76EIGu9VLJ4KTcsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619091990482-8k69chqqpa4u23kjg1ac69fffconsdcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
